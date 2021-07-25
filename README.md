@@ -1,7 +1,7 @@
 # FaceDetector
 Detects the face of a person and scans the faces in images. Made With the help of OpenCV in python.
 ## How to Run
-Make sure you have python3 installed and install OpenCV using command 'pip install opencv-python' then Copy the program and run it in cmd or any IDE.
+Make sure python3 is installed and install OpenCV using command 'pip install opencv-python' then Copy the program and run it in cmd or any IDE.
 
 
 
