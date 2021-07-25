@@ -1,5 +1,5 @@
 import cv2;
-face_cascade = cv2.CascadeClassifier(r"C:\Users\bhanuprakash\AppData\Local\Programs\Python\Python38-32\haarcascade_frontalface_default.xml");
+face_cascade = cv2.CascadeClassifier(r"C:\Users\user_name\AppData\Local\Programs\Python\Python38-32\haarcascade_frontalface_default.xml");
 video = cv2.VideoCapture(0);
 while True:
     check, frame = video.read();
